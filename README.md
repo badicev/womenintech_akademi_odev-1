@@ -1,2 +1,3 @@
-# womenintech_akademi_odev
-Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo
+# Women in Tech Academy Ödevler
+
+Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
