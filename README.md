@@ -11,7 +11,7 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 
 </summary>
 
-##### [Kod](1-yildizlarla_ucgen_cizimi.ipynbyildizlarla_ucgen_cizimi)
+##### [Kod](1-yildizlarla_ucgen_cizimi.ipynb)
 
 </details>
 
