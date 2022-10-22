@@ -10,7 +10,9 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 #### Yıldızlarla Üçgen Çizimi
 
 </summary>
-
+  
+![gif](https://media.giphy.com/media/eGO8AfEHjNKKNOPCrl/giphy.gif)
+  
 ##### [Kod](1-yildizlarla_ucgen_cizimi.ipynb)
 
 </details>
