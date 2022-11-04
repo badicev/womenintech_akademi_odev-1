@@ -78,7 +78,7 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 
 ##### [Kod](6-eksik_sayiyi_bulma.ipynb) 
 
-![gif](https://media.giphy.com/media/P1i1JsW2nNoBkn8xbb/giphy.gif)
+![gif](https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif)
 
 </details>
 
@@ -91,7 +91,7 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 
 ##### [Kod](7-liste_siralama_algoritmasi.ipynb) 
 
-![gif](https://media.giphy.com/media/P1i1JsW2nNoBkn8xbb/giphy.gif)
+![gif](https://media.giphy.com/media/irIRA0HQCQiTiIMMNm/giphy.gif)
 
 </details>
 
@@ -104,6 +104,6 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 
 ##### [Kod](8-toplami_target_indexler.ipynb) 
 
-![gif](https://media.giphy.com/media/P1i1JsW2nNoBkn8xbb/giphy.gif)
+![gif](https://media.giphy.com/media/dUWHHcbfUnJ8bZDiz0/giphy.gif)
 
 </details>
