@@ -107,3 +107,16 @@ Women in Tech Academy boyunca yapmış olduğum ödevleri eklediğim repo.
 ![gif](https://media.giphy.com/media/dUWHHcbfUnJ8bZDiz0/giphy.gif)
 
 </details>
+
+<details>
+<summary>
+
+#### Dosya İşlemleri
+
+</summary>
+
+##### [Kod](dosya_odev.ipynb/) 
+
+![gif](https://media.giphy.com/media/dUWHHcbfUnJ8bZDiz0/giphy.gif)
+
+</details>
